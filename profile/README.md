@@ -1,1 +1,1 @@
-We are a small team of developers working on big stuff [wecodeit](wecodeit.net)
+We are a small team of developers working on big stuff [wecodeit](https://wecodeit.net)
